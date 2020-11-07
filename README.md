@@ -106,6 +106,11 @@ In the above example,
 
 # Usage
 
+### Install
+``` 
+  npm install overhauljs
+```
+
 ### In component
 * Import useOverhaul hook from store.
 * use as hook, 
