@@ -1,0 +1,39 @@
+{
+  "name": "overhauljs",
+  "version": "0.0.1",
+  "description": "Simple State Management in React with Hooks",
+  "main": "overhaul.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaustubh03/overhauljs.git"
+  },
+  "keywords": [
+    "state",
+    "management",
+    "react",
+    "redux",
+    "store",
+    "overhaul",
+    "overhauljs",
+    "haul",
+    "react",
+    "global",
+    "state",
+    "react",
+    "state",
+    "management"
+  ],
+  "author": "Kaustubh Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaustubh03/overhauljs/issues"
+  },
+  "homepage": "https://github.com/kaustubh03/overhauljs#readme",
+  "devDependencies": {
+    "rollup": "^2.33.1",
+    "rollup-plugin-uglify": "^6.0.4"
+  }
+}
